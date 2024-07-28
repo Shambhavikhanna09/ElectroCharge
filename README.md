@@ -34,6 +34,8 @@ MySQL stores information about EV stations, user accounts, and bookings. JDBC is
 - **Algorithm**:
   - The MVC pattern separates application components to improve organization and scalability.
 
+![Alt text](https://github.com/Shambhavikhanna09/ElectroCharge/blob/c4ad635fd8045fdf4d00577aea1d37aa87c1664b/Picture1%20EV%20CHARGING.png)
+
 ## Project Features
 - **User Registration and Authentication**: Secure account creation and login, with hashed passwords stored in the database.
 - **EV Station Booking**: Search for and book available charging stations based on location.
@@ -46,5 +48,11 @@ MySQL stores information about EV stations, user accounts, and bookings. JDBC is
 - **MVC Framework Structure**: Organized code with data processing in the Model, UI in the View, and user input handling in the Controller.
 - **Data Access and Manipulation**: Data validation and error handling ensure integrity and stability.
 
+### Output
+![Alt text](https://github.com/Shambhavikhanna09/ElectroCharge/blob/c4ad635fd8045fdf4d00577aea1d37aa87c1664b/Picture2EV.jpg)
+
 ## Conclusion
 ElectroCharge Pro aims to enhance the EV user experience by providing a reliable, user-friendly platform for locating and reserving charging stations. This project addresses the key challenges of EV adoption by reducing range anxiety and ensuring easy access to charging infrastructure.
+
+## Detailed Document 
+[Link for document](https://github.com/Shambhavikhanna09/ElectroCharge/blob/8d257aa78cf5fb358472bece8b95953c66a546c8/MINORPROJECT1%20end%20term_removed.pdf)
