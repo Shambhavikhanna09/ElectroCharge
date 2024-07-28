@@ -6,10 +6,6 @@ ElectroCharge Pro simplifies booking and managing EV charging stations. Develope
 ## Introduction
 The rise in electric vehicles (EVs) necessitates robust charging infrastructure. This project aims to mitigate range anxiety by providing real-time data on charging station locations, availability, and booking options.
 
-## Literature Review
-- **User Perspective on Charging Infrastructure**: Research by Hidrue et al. (2016) highlights the importance of station availability information and booking options.
-- **Real-Time Data for Charging Stations**: Hu et al. (2019) emphasize real-time data's role in reducing range anxiety.
-- **Existing Projects**: PlugShare and the EU's CEF project offer insights into EV infrastructure and user needs.
 
 ## Problem Statement
 Despite the rise in EV adoption, the lack of dependable infrastructure for finding and accessing charging stations remains a barrier. ElectroCharge Pro addresses this by offering queue management, availability information, and efficient trip planning.
